@@ -1,4 +1,4 @@
-- #sobre min
+- # sobre min
 - Meu e-mail de contato é @carlos.pereira.oliveira@escola.pr.gov.br
 - Estou imteressado em programação
 - 👀 I’m interested in ...
